@@ -1,12 +1,28 @@
-html {
+body {
   font-family: Verdana;
+  text-align: center;
+  background-color: black;
 }
 h1 {
   font-size: 50px;
   color: white;
-  text-align: center;
+  font-weight: normal;
+
 }
 .link {
   color: Aquamarine;
   font-size: 16px;
+  text-decoration: underline;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+.foot {
+  color: gray;
+  text-align: right;
 }
